@@ -14,4 +14,5 @@ k_stretching = 50.
 myseed = 42
 model_type = 0
 external_field = 5.
+delta_Komega = 0.
 theta_threshold = 10.
