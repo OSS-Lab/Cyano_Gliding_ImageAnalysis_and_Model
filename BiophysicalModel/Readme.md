@@ -28,4 +28,5 @@ An example of the input file is in this folder, called "param_template.dat"
 - myseed = 42                 seed for PNRGs
 - model_type = 0              type of model: 0: all cells self-propel; 1: only the two ends self-propel; 2: only one end self-propel 
 - external_field = 5.         magnitude of the extenal input, triggers at the ends of the track
+- delta_Komega = 0.           relative mechanosensibility to internal stresses
 - theta_threshold = 10.       confinement parameter for the variable $\omega$ ($\omega_{\mathrm{max}}$ in the manuscript)
