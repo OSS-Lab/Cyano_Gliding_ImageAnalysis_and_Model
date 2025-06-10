@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Soyer
+    given-names: Orkun S.
+    orcid: https://orcid.org/0000-0002-9504-3796
+title: "Gliding Cyanobacteria Image Analysis and Model"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 
+date-released: 2025-06-10
